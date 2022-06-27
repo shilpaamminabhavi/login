@@ -16,7 +16,7 @@ const App = () => {
         console.log(allEntry);
     }
 
-    return(
+     return(
         <>
         <form action="" onSubmit={submitform}>
         <h1>LogIn</h1>
